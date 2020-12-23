@@ -1,0 +1,31 @@
+{
+    "name": "dynamikaweb/yii2-animate-css",
+    "description": "Dynamika Web CSS anim",
+    "authors": [
+        {
+            "name": "RodrigoDornelles",
+            "email": "rodrigo@dornelles.me",
+            "role": "Developer"
+        },
+        {
+            "name": "Gabriel",
+            "email": "gabriel@dornelles.me",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/dynamikaweb/yii2-animate-css/issues",
+        "source": "http://github.com/dynamikaweb/yii2-animate-css"
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "yiisoft/yii2": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "autoload": {
+        "psr-4": {
+            "dynamikaweb\\anim\\": "src"
+        }
+    }
+}
